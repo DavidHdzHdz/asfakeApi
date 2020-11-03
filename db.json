@@ -1,0 +1,270 @@
+{
+  "candidates": {
+    "page": 2,
+    "itemCount": 50,
+    "items": [
+      {
+        "id": 5634,
+        "candidateId": 70705,
+        "profileUrl": "https://www.gravatar.com/avatar/684697e194c66d338c5ee91d030121cc?d=identicon",
+        "mail": "Lynch@gmail.com",
+        "fullName": "Breanna Runolfsdottir",
+        "ticketId": 111,
+        "photoUrl": "https://www.gravatar.com/avatar/684697e194c66d338c5ee91d030121cc?d=identicon",
+        "weight": 3.456,
+        "availableIn": 10,
+        "plans": 2
+        "analysis": [
+          {
+            "label": "position",
+            "value": "Sr Java Developer",
+            "weight": 100
+          },
+          {
+            "label": "seniority",
+            "value": "Senior",
+            "weight": 100
+          },
+          {
+            "label": "location",
+            "value": "COL",
+            "weight": 63
+          }
+        ]
+      },
+      {
+        "id": 9034,
+        "candidateId": 86906,
+        "profileUrl": "https://www.gravatar.com/avatar/7a4de3ec254747b304a82a14270e72be?d=identicon",
+        "mail": "Estella8@gmail.com",
+        "fullName": "Jan Oberbrunner",
+        "ticketId": 111,
+        "photoUrl": "https://www.gravatar.com/avatar/7a4de3ec254747b304a82a14270e72be?d=identicon",
+        "weight": 2.1532,
+        "availableIn": 10,
+        "plans": 2
+        "analysis": [
+          {
+            "label": "position",
+            "value": "Sr Java Developer",
+            "weight": 100
+          },
+          {
+            "label": "seniority",
+            "value": "Senior",
+            "weight": 100
+          },
+          {
+            "label": "location",
+            "value": "COL",
+            "weight": 63
+          }
+        ]
+      },
+      {
+        "id": 4536,
+        "candidateId": 15215,
+        "profileUrl": "https://www.gravatar.com/avatar/d5a91308668dd768e955e2efd0fcdb37?d=identicon",
+        "mail": "Steuber@gmail.com",
+        "fullName": "Kaelyn Hoppe",
+        "ticketId": 111,
+        "photoUrl": "https://www.gravatar.com/avatar/d5a91308668dd768e955e2efd0fcdb37?d=identicon",
+        "weight": 2.234,
+        "availableIn": 10,
+        "plans": 2
+        "analysis": [
+          {
+            "label": "position",
+            "value": "Sr Java Developer",
+            "weight": 100
+          },
+          {
+            "label": "seniority",
+            "value": "Senior",
+            "weight": 100
+          },
+          {
+            "label": "location",
+            "value": "COL",
+            "weight": 63
+          }
+        ]
+      },
+      {
+        "id": 5494,
+        "candidateId": 48167,
+        "profileUrl": "https://www.gravatar.com/avatar/e65037a095cfcc6aec56cad1a2128207?d=identicon",
+        "mail": "Darrell10@gmail.com",
+        "fullName": "Nova Bergstrom",
+        "ticketId": 222,
+        "photoUrl": "https://www.gravatar.com/avatar/e65037a095cfcc6aec56cad1a2128207?d=identicon",
+        "weight": 2.9678,
+        "availableIn": 10,
+        "plans": 2
+        "analysis": [
+          {
+            "label": "position",
+            "value": "Sr Java Developer",
+            "weight": 100
+          },
+          {
+            "label": "seniority",
+            "value": "Senior",
+            "weight": 100
+          },
+          {
+            "label": "location",
+            "value": "COL",
+            "weight": 63
+          }
+        ]
+      },
+      {
+        "id": 1234,
+        "candidateId": 42588,
+        "profileUrl": "https://www.gravatar.com/avatar/03b84b35e3a31f091a07910da97ff46a?d=identicon",
+        "mail": "Gaylord@yahoo.com",
+        "fullName": "Myrtle Torphy",
+        "ticketId": 222,
+        "photoUrl": "https://www.gravatar.com/avatar/03b84b35e3a31f091a07910da97ff46a?d=identicon",
+        "weight": 2.1567,
+        "availableIn": 10,
+        "plans": 2
+        "analysis": [
+          {
+            "label": "position",
+            "value": "Sr Java Developer",
+            "weight": 100
+          },
+          {
+            "label": "seniority",
+            "value": "Senior",
+            "weight": 100
+          },
+          {
+            "label": "location",
+            "value": "COL",
+            "weight": 63
+          }
+        ]
+      },
+      {
+        "id": 7534,
+        "candidateId": 48620,
+        "profileUrl": "https://www.gravatar.com/avatar/9ffc47916a084028d7a6436531077852?d=identicon",
+        "mail": "Daren95@yahoo.com",
+        "fullName": "Pamela Ritchie",
+        "ticketId": 222,
+        "photoUrl": "https://www.gravatar.com/avatar/9ffc47916a084028d7a6436531077852?d=identicon",
+        "weight": 3.3242,
+        "availableIn": 10,
+        "plans": 2
+        "analysis": [
+          {
+            "label": "position",
+            "value": "Sr Java Developer",
+            "weight": 100
+          },
+          {
+            "label": "seniority",
+            "value": "Senior",
+            "weight": 100
+          },
+          {
+            "label": "location",
+            "value": "COL",
+            "weight": 63
+          }
+        ]
+      },
+      {
+        "id": 7834,
+        "candidateId": 88213,
+        "profileUrl": "https://www.gravatar.com/avatar/eec9b2ede8a775989ff71b5308ff52d7?d=identicon",
+        "mail": "Chadd37@yahoo.com",
+        "fullName": "Maynard Huel",
+        "ticketId": 333,
+        "photoUrl": "https://www.gravatar.com/avatar/eec9b2ede8a775989ff71b5308ff52d7?d=identicon",
+        "weight": 2.789,
+        "availableIn": 10,
+        "plans": 2
+        "analysis": [
+          {
+            "label": "position",
+            "value": "Sr Java Developer",
+            "weight": 100
+          },
+          {
+            "label": "seniority",
+            "value": "Senior",
+            "weight": 100
+          },
+          {
+            "label": "location",
+            "value": "COL",
+            "weight": 63
+          }
+        ]
+      },
+      {
+        "id": 9014,
+        "candidateId": 84105,
+        "profileUrl": "https://www.gravatar.com/avatar/97a40c4aa56899a85c07a94c247e6845?d=identicon",
+        "mail": "Darrel@gmail.com",
+        "fullName": "Kayla McCullugh",
+        "ticketId": 333,
+        "photoUrl": "https://www.gravatar.com/avatar/97a40c4aa56899a85c07a94c247e6845?d=identicon",
+        "weight": 2.8656,
+        "availableIn": 10,
+        "plans": 2
+        "analysis": [
+          {
+            "label": "position",
+            "value": "Sr Java Developer",
+            "weight": 100
+          },
+          {
+            "label": "seniority",
+            "value": "Senior",
+            "weight": 100
+          },
+          {
+            "label": "location",
+            "value": "COL",
+            "weight": 63
+          }
+        ]
+      },
+      {
+        "id": 6634,
+        "candidateId": 36255,
+        "profileUrl": "https://www.gravatar.com/avatar/c4779957b19b80438e651f6ca4c2107e?d=identicon",
+        "mail": "Pearl80@hotmail.com",
+        "fullName": "King Hermiston",
+        "ticketId": 333,
+        "photoUrl": "https://www.gravatar.com/avatar/c4779957b19b80438e651f6ca4c2107e?d=identicon",
+        "weight": 3.098,
+        "availableIn": 10,
+        "plans": 2
+        "analysis": [
+          {
+            "label": "position",
+            "value": "Sr Java Developer",
+            "weight": 100
+          },
+          {
+            "label": "seniority",
+            "value": "Senior",
+            "weight": 100
+          },
+          {
+            "label": "location",
+            "value": "COL",
+            "weight": 63
+          }
+        ]
+      }
+    ],
+    "publishedVersion": "1.2"
+  } 
+}
