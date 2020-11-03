@@ -31,14 +31,14 @@
             "weight": 63
           },
           { 
-            label: 'working ecosystems', 
-            value: 'IOS - Level 3', 
-            weight: 90 
+            "label": "working ecosystems", 
+            "value": "IOS - Level 3", 
+            "weight": 90 
           },
           { 
-            label: 'previous presentation', 
-            value: '', 
-            weight: 45 
+            "label": "previous presentation", 
+            "value": "", 
+            "weight": 45 
           }
         ]
       },
@@ -69,15 +69,15 @@
             "value": "COL",
             "weight": 63
           },
-           { 
-            label: 'working ecosystems', 
-            value: 'IOS - Level 3', 
-            weight: 90 
+          { 
+            "label": "working ecosystems", 
+            "value": "IOS - Level 3", 
+            "weight": 90 
           },
           { 
-            label: 'previous presentation', 
-            value: '', 
-            weight: 45 
+            "label": "previous presentation", 
+            "value": "", 
+            "weight": 45 
           }
         ]
       },
@@ -108,15 +108,15 @@
             "value": "MEX",
             "weight": 70
           },
-           { 
-            label: 'working ecosystems', 
-            value: 'IOS - Level 3', 
-            weight: 90 
+          { 
+            "label": "working ecosystems", 
+            "value": "IOS - Level 3", 
+            "weight": 90 
           },
           { 
-            label: 'previous presentation', 
-            value: '', 
-            weight: 45 
+            "label": "previous presentation", 
+            "value": "", 
+            "weight": 45 
           }
         ]
       },
@@ -147,15 +147,15 @@
             "value": "COL",
             "weight": 63
           },
-           { 
-            label: 'working ecosystems', 
-            value: 'IOS - Level 3', 
-            weight: 90 
+          { 
+            "label": "working ecosystems", 
+            "value": "IOS - Level 3", 
+            "weight": 90 
           },
           { 
-            label: 'previous presentation', 
-            value: '', 
-            weight: 45 
+            "label": "previous presentation", 
+            "value": "", 
+            "weight": 45 
           }
         ]
       },
@@ -186,15 +186,15 @@
             "value": "COL",
             "weight": 63
           },
-           { 
-            label: 'working ecosystems', 
-            value: 'IOS - Level 3', 
-            weight: 90 
+          { 
+            "label": "working ecosystems", 
+            "value": "IOS - Level 3", 
+            "weight": 90 
           },
           { 
-            label: 'previous presentation', 
-            value: '', 
-            weight: 45 
+            "label": "previous presentation", 
+            "value": "", 
+            "weight": 45 
           }
         ]
       },
@@ -225,15 +225,15 @@
             "value": "COL",
             "weight": 63
           },
-           { 
-            label: 'working ecosystems', 
-            value: 'IOS - Level 3', 
-            weight: 90 
+          { 
+            "label": "working ecosystems", 
+            "value": "IOS - Level 3", 
+            "weight": 90 
           },
           { 
-            label: 'previous presentation', 
-            value: '', 
-            weight: 45 
+            "label": "previous presentation", 
+            "value": "", 
+            "weight": 45 
           }
         ]
       },
@@ -264,15 +264,15 @@
             "value": "COL",
             "weight": 63
           },
-           { 
-            label: 'working ecosystems', 
-            value: 'IOS - Level 3', 
-            weight: 90 
+          { 
+            "label": "working ecosystems", 
+            "value": "IOS - Level 3", 
+            "weight": 90 
           },
           { 
-            label: 'previous presentation', 
-            value: '', 
-            weight: 45 
+            "label": "previous presentation", 
+            "value": "", 
+            "weight": 45 
           }
         ]
       },
@@ -303,15 +303,15 @@
             "value": "COL",
             "weight": 63
           },
-           { 
-            label: 'working ecosystems', 
-            value: 'IOS - Level 3', 
-            weight: 90 
+          { 
+            "label": "working ecosystems", 
+            "value": "IOS - Level 3", 
+            "weight": 90 
           },
           { 
-            label: 'previous presentation', 
-            value: '', 
-            weight: 45 
+            "label": "previous presentation", 
+            "value": "", 
+            "weight": 45 
           }
         ]
       },
@@ -342,15 +342,15 @@
             "value": "COL",
             "weight": 63
           },
-           { 
-            label: 'working ecosystems', 
-            value: 'IOS - Level 3', 
-            weight: 0 
+          { 
+            "label": "working ecosystems", 
+            "value": "IOS - Level 3", 
+            "weight": 90 
           },
           { 
-            label: 'previous presentation', 
-            value: '', 
-            weight: 30 
+            "label": "previous presentation", 
+            "value": "", 
+            "weight": 45 
           }
         ]
       }
