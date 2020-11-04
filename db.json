@@ -13,7 +13,7 @@
         "photoUrl": "https://www.gravatar.com/avatar/684697e194c66d338c5ee91d030121cc?d=identicon",
         "weight": 3.456,
         "availableIn": 10,
-        "plans": 2,
+        "plans": 1,
         "analysis": [
           {
             "label": "position",
@@ -52,7 +52,7 @@
         "photoUrl": "https://www.gravatar.com/avatar/7a4de3ec254747b304a82a14270e72be?d=identicon",
         "weight": 2.1532,
         "availableIn": 10,
-        "plans": 2,
+        "plans": 0,
         "analysis": [
           {
             "label": "position",
@@ -91,7 +91,7 @@
         "photoUrl": "https://www.gravatar.com/avatar/d5a91308668dd768e955e2efd0fcdb37?d=identicon",
         "weight": 2.234,
         "availableIn": 10,
-        "plans": 2,
+        "plans": 3,
         "analysis": [
           {
             "label": "position",
@@ -130,7 +130,7 @@
         "photoUrl": "https://www.gravatar.com/avatar/e65037a095cfcc6aec56cad1a2128207?d=identicon",
         "weight": 2.9678,
         "availableIn": 10,
-        "plans": 2,
+        "plans": 0,
         "analysis": [
           {
             "label": "position",
@@ -208,7 +208,7 @@
         "photoUrl": "https://www.gravatar.com/avatar/9ffc47916a084028d7a6436531077852?d=identicon",
         "weight": 3.3242,
         "availableIn": 10,
-        "plans": 2,
+        "plans": 4,
         "analysis": [
           {
             "label": "position",
@@ -325,7 +325,7 @@
         "photoUrl": "https://www.gravatar.com/avatar/c4779957b19b80438e651f6ca4c2107e?d=identicon",
         "weight": 3.098,
         "availableIn": 10,
-        "plans": 2,
+        "plans": 0,
         "analysis": [
           {
             "label": "position",
