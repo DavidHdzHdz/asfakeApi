@@ -12,7 +12,7 @@
         "ticketId": 111,
         "photoUrl": "https://www.gravatar.com/avatar/684697e194c66d338c5ee91d030121cc?d=identicon",
         "weight": 3.456,
-        "availableIn": 10,
+        "availableIn": 5,
         "plans": 1,
         "analysis": [
           {
@@ -51,7 +51,7 @@
         "ticketId": 111,
         "photoUrl": "https://www.gravatar.com/avatar/7a4de3ec254747b304a82a14270e72be?d=identicon",
         "weight": 2.1532,
-        "availableIn": 10,
+        "availableIn": 2,
         "plans": 0,
         "analysis": [
           {
@@ -77,7 +77,7 @@
           { 
             "label": "previous presentation", 
             "value": "", 
-            "weight": 45 
+            "weight": 0 
           }
         ]
       },
@@ -129,7 +129,7 @@
         "ticketId": 222,
         "photoUrl": "https://www.gravatar.com/avatar/e65037a095cfcc6aec56cad1a2128207?d=identicon",
         "weight": 2.9678,
-        "availableIn": 10,
+        "availableIn": 1,
         "plans": 0,
         "analysis": [
           {
@@ -207,7 +207,7 @@
         "ticketId": 222,
         "photoUrl": "https://www.gravatar.com/avatar/9ffc47916a084028d7a6436531077852?d=identicon",
         "weight": 3.3242,
-        "availableIn": 10,
+        "availableIn": 15,
         "plans": 4,
         "analysis": [
           {
@@ -285,7 +285,7 @@
         "ticketId": 333,
         "photoUrl": "https://www.gravatar.com/avatar/97a40c4aa56899a85c07a94c247e6845?d=identicon",
         "weight": 2.8656,
-        "availableIn": 10,
+        "availableIn": 12,
         "plans": 2,
         "analysis": [
           {
@@ -324,7 +324,7 @@
         "ticketId": 333,
         "photoUrl": "https://www.gravatar.com/avatar/c4779957b19b80438e651f6ca4c2107e?d=identicon",
         "weight": 3.098,
-        "availableIn": 10,
+        "availableIn": 0,
         "plans": 0,
         "analysis": [
           {
