@@ -1,4 +1,4 @@
-name: mocki
+name: as-staffing-globant
 port: 3000
 endpoints:
   - path: /hello
